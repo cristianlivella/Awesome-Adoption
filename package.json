@@ -9,7 +9,7 @@
     "bootstrap": "5.1.1",
     "bootswatch": "^5.1.1",
     "jwt-decode": "^3.1.2",
-    "postcode-validator": "^3.1.0",
+    "postcode-validator": "^3.5.3",
     "react": "^17.0.0",
     "react-bootstrap": "^2.0.0-rc.0",
     "react-dom": "^17.0.0",

@@ -8558,10 +8558,10 @@ posix-character-classes@^0.1.0:
   resolved "https://registry.yarnpkg.com/posix-character-classes/-/posix-character-classes-0.1.1.tgz#01eac0fe3b5af71a2a6c02feabb8c1fef7e00eab"
   integrity sha1-AerA/jta9xoqbAL+q7jB/vfgDqs=
 
-postcode-validator@^3.1.0:
-  version "3.3.0"
-  resolved "https://registry.yarnpkg.com/postcode-validator/-/postcode-validator-3.3.0.tgz#c8c6882aaaf633e69e09c14bd6d3e4c741ac1e93"
-  integrity sha512-wwwOBZVBDm6eAm2jXkMO5tupNmgpTWH8RH+5JgxYkHW15u2ZU0/eHN9iYsdtOfluxNusZjMa0O2e05E8AF+fyg==
+postcode-validator@^3.5.3:
+  version "3.5.3"
+  resolved "https://registry.yarnpkg.com/postcode-validator/-/postcode-validator-3.5.3.tgz#69b4be5f8a96ad68f7627634e1552890d8bc5162"
+  integrity sha512-T/mxflCsYWQuS7CqYuloMA+RRITNOh0Z401Z1HRCd6HUuQbct+vMXV/YMhFdl7TmBCtX5rxDJEiDOh56gKzLug==
 
 postcss-attribute-case-insensitive@^4.0.1:
   version "4.0.2"
